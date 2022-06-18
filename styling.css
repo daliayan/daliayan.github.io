@@ -1,10 +1,18 @@
-.header{
+html {
+  background: linear-gradient(200deg, rgb(255, 221, 128), rgb(255, 255, 255));
+  background-attachment: fixed;
+  height: 100%;
+  min-height: 100%;
+cursor: pointer;
+}
+
+header{
   padding: 60px;
   text-align: justify;
   background: #1abc9c;
   color: rgb(231, 36, 36);
   font-size: 30px;
 }
-.h1{
+h1{
   text-align: center;
 }

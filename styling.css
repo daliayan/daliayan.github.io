@@ -1,7 +1,10 @@
 .header{
   padding: 60px;
-  text-align: center;
+  text-align: justify;
   background: #1abc9c;
   color: rgb(231, 36, 36);
   font-size: 30px;
+}
+.h1{
+  text-align: center;
 }
